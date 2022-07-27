@@ -33,10 +33,13 @@ md_content = """
 """
 
 for i in all_result:
+  name = i.split("/")[-1]
+  seq = name.split(".")[0]
   if os.path.exists(i + "/README.md"):
-    name = i.split("/")[-1]
-    seq = name.split(".")[0]
     md_content += "{} | [{}](https://github.com/0xcaffebabe/leetcode/tree/main{})".format(seq, name, quote(i[1:])) + "\n"
+  else:
+    for path, dir_list, file_list in os.walk(i):
+      md_content += "{} | [{}](https://github.com/0xcaffebabe/leetcode/tree/main{})".format(seq, name, quote(i[1:] + "/" + file_list[0])) + "\n"
 
 f = open('./scripts/template.md', 'r', encoding="utf8")
 template = f.read()
