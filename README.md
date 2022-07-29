@@ -225,6 +225,7 @@
 1863 | [1863. 找出所有子集的异或总和再求和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1863.%20%E6%89%BE%E5%87%BA%E6%89%80%E6%9C%89%E5%AD%90%E9%9B%86%E7%9A%84%E5%BC%82%E6%88%96%E6%80%BB%E5%92%8C%E5%86%8D%E6%B1%82%E5%92%8C)
 1869 | [1869. 哪种连续子字符串更长](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1869.%20%E5%93%AA%E7%A7%8D%E8%BF%9E%E7%BB%AD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9B%B4%E9%95%BF)
 1877 | [1877. 数组中最大数对和的最小值](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1877.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9C%80%E5%A4%A7%E6%95%B0%E5%AF%B9%E5%92%8C%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC)
+1890 | [1890.2020-年最后一次登录](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/1890.2020-%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E7%99%BB%E5%BD%95/1890.2020-%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E7%99%BB%E5%BD%95.sql)
 1920 | [1920. 基于排列构建数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1920.%20%E5%9F%BA%E4%BA%8E%E6%8E%92%E5%88%97%E6%9E%84%E5%BB%BA%E6%95%B0%E7%BB%84)
 1929 | [1929. 数组串联](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1929.%20%E6%95%B0%E7%BB%84%E4%B8%B2%E8%81%94)
 2000 | [2000. 反转单词前缀](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/2000.%20%E5%8F%8D%E8%BD%AC%E5%8D%95%E8%AF%8D%E5%89%8D%E7%BC%80)
