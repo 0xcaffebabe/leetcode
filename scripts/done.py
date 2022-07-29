@@ -18,7 +18,9 @@ if len(file_list) == 0:
 base_dir = ""
 for i in file_list:
   seq = i.split(".")[0]
-  if "剑指Offer" in seq:
+  if ".sql" in i:
+    base_dir = "./数据库/"
+  elif "剑指Offer" in seq:
     base_dir = "./算法/剑指Offer"
   elif "面试题" in seq:
     base_dir = "./算法/面试题"
