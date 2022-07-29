@@ -208,6 +208,7 @@
 1720 | [1720. 解码异或后的数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1720.%20%E8%A7%A3%E7%A0%81%E5%BC%82%E6%88%96%E5%90%8E%E7%9A%84%E6%95%B0%E7%BB%84)
 1729 | [1729. 求关注者的数量](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/1729.%20%E6%B1%82%E5%85%B3%E6%B3%A8%E8%80%85%E7%9A%84%E6%95%B0%E9%87%8F)
 1732 | [1732. 找到最高海拔](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1732.%20%E6%89%BE%E5%88%B0%E6%9C%80%E9%AB%98%E6%B5%B7%E6%8B%94)
+1741 | [1741.查找每个员工花费的总时间](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/1741.%E6%9F%A5%E6%89%BE%E6%AF%8F%E4%B8%AA%E5%91%98%E5%B7%A5%E8%8A%B1%E8%B4%B9%E7%9A%84%E6%80%BB%E6%97%B6%E9%97%B4/1741.%E6%9F%A5%E6%89%BE%E6%AF%8F%E4%B8%AA%E5%91%98%E5%B7%A5%E8%8A%B1%E8%B4%B9%E7%9A%84%E6%80%BB%E6%97%B6%E9%97%B4.sql)
 1748 | [1748. 唯一元素的和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1748.%20%E5%94%AF%E4%B8%80%E5%85%83%E7%B4%A0%E7%9A%84%E5%92%8C)
 1752 | [1752. 检查数组是否经排序和轮转得到](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1752.%20%E6%A3%80%E6%9F%A5%E6%95%B0%E7%BB%84%E6%98%AF%E5%90%A6%E7%BB%8F%E6%8E%92%E5%BA%8F%E5%92%8C%E8%BD%AE%E8%BD%AC%E5%BE%97%E5%88%B0)
 1763 | [1763. 最长的美好子字符串](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1763.%20%E6%9C%80%E9%95%BF%E7%9A%84%E7%BE%8E%E5%A5%BD%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2)
