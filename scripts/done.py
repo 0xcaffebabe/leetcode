@@ -4,15 +4,17 @@ from shlex import join
 import sys
 import shutil
 
+def post_cmd():
+  os.system("python scripts/readme_generator.py")
+  os.system('git add . ')
+  os.system('git commit -a -m "➕{}"'.format(kw))
+
 file_list = os.listdir("./")
-
 kw = sys.argv[1]
-
 file_list = list(filter(lambda x: kw in x, file_list))
 
 if len(file_list) == 0:
   print("no file!!")
-  print(file_list)
   exit(-1)
 
 base_dir = ""
@@ -47,5 +49,5 @@ for i in file_list:
     os.mkdir(move_dir)
   shutil.move(i, move_dir + "/" + i)
   print(i + " done")
-    
-os.system("python scripts/readme_generator.py")
+
+post_cmd()
