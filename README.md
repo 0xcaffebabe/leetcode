@@ -143,6 +143,7 @@
 661 | [661. 图片平滑器](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/661.%20%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8)
 671 | [671. 二叉树中第二小的节点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/671.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%AC%AC%E4%BA%8C%E5%B0%8F%E7%9A%84%E8%8A%82%E7%82%B9)
 674 | [674. 最长连续递增序列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/674.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97)
+682 | [682.棒球比赛](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B/682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.java)
 693 | [693. 交替位二进制数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/693.%20%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0)
 706 | [706. 设计哈希映射](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/706.%20%E8%AE%BE%E8%AE%A1%E5%93%88%E5%B8%8C%E6%98%A0%E5%B0%84)
 709 | [709. 转换成小写字母](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/709.%20%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D)
