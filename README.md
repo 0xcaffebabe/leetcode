@@ -214,6 +214,7 @@
 1507 | [1507. 转变日期格式](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1507.%20%E8%BD%AC%E5%8F%98%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F)
 1512 | [1512. 好数对的数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1512.%20%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE)
 1572 | [1572. 矩阵对角线元素的和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1572.%20%E7%9F%A9%E9%98%B5%E5%AF%B9%E8%A7%92%E7%BA%BF%E5%85%83%E7%B4%A0%E7%9A%84%E5%92%8C)
+1588 | [1588.所有奇数长度子数组的和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1588.%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C/1588.%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.java)
 1603 | [1603. 设计停车系统](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1603.%20%E8%AE%BE%E8%AE%A1%E5%81%9C%E8%BD%A6%E7%B3%BB%E7%BB%9F)
 1614 | [1614. 括号的最大嵌套深度](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1614.%20%E6%8B%AC%E5%8F%B7%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B5%8C%E5%A5%97%E6%B7%B1%E5%BA%A6)
 1656 | [1656. 设计有序流](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1656.%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81)
