@@ -237,6 +237,7 @@
 1796 | [1796. 字符串中第二大的数字](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1796.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%9A%84%E6%95%B0%E5%AD%97)
 1800 | [1800. 最大升序子数组和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1800.%20%E6%9C%80%E5%A4%A7%E5%8D%87%E5%BA%8F%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C)
 1822 | [1822. 数组元素积的符号](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1822.%20%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%A7%AF%E7%9A%84%E7%AC%A6%E5%8F%B7)
+1828 | [1828.统计一个圆中点的数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1828.%E7%BB%9F%E8%AE%A1%E4%B8%80%E4%B8%AA%E5%9C%86%E4%B8%AD%E7%82%B9%E7%9A%84%E6%95%B0%E7%9B%AE/1828.%E7%BB%9F%E8%AE%A1%E4%B8%80%E4%B8%AA%E5%9C%86%E4%B8%AD%E7%82%B9%E7%9A%84%E6%95%B0%E7%9B%AE.java)
 1832 | [1832. 判断句子是否为全字母句](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1832.%20%E5%88%A4%E6%96%AD%E5%8F%A5%E5%AD%90%E6%98%AF%E5%90%A6%E4%B8%BA%E5%85%A8%E5%AD%97%E6%AF%8D%E5%8F%A5)
 1833 | [1833. 雪糕的最大数量](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1833.%20%E9%9B%AA%E7%B3%95%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E9%87%8F)
 1848 | [1848. 到目标元素的最小距离](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1848.%20%E5%88%B0%E7%9B%AE%E6%A0%87%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB)
