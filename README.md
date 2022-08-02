@@ -187,6 +187,7 @@
 1108 | [1108. IP 地址无效化](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1108.%20IP%20%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96)
 1207 | [1207. 独一无二的出现次数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1207.%20%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0)
 1217 | [1217. 玩筹码](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1217.%20%E7%8E%A9%E7%AD%B9%E7%A0%81)
+1221 | [1221.分割平衡字符串](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1221.%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2/1221.%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
 1261 | [1261. 在受污染的二叉树中查找元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1261.%20%E5%9C%A8%E5%8F%97%E6%B1%A1%E6%9F%93%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0)
 1290 | [1290. 二进制链表转整数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1290.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%95%B4%E6%95%B0)
 1295 | [1295. 统计位数为偶数的数字](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1295.%20%E7%BB%9F%E8%AE%A1%E4%BD%8D%E6%95%B0%E4%B8%BA%E5%81%B6%E6%95%B0%E7%9A%84%E6%95%B0%E5%AD%97)
