@@ -223,6 +223,7 @@
 1678 | [1678. 设计 Goal 解析器](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1678.%20%E8%AE%BE%E8%AE%A1%20Goal%20%E8%A7%A3%E6%9E%90%E5%99%A8)
 1684 | [1684. 统计一致字符串的数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1684.%20%E7%BB%9F%E8%AE%A1%E4%B8%80%E8%87%B4%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%95%B0%E7%9B%AE)
 1688 | [1688. 比赛中的配对次数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1688.%20%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%9A%84%E9%85%8D%E5%AF%B9%E6%AC%A1%E6%95%B0)
+1689 | [1689.十-二进制数的最少数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1689.%E5%8D%81-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%91%E6%95%B0%E7%9B%AE/1689.%E5%8D%81-%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%91%E6%95%B0%E7%9B%AE.java)
 1704 | [1704. 判断字符串的两半是否相似](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1704.%20%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%B8%A4%E5%8D%8A%E6%98%AF%E5%90%A6%E7%9B%B8%E4%BC%BC)
 1720 | [1720. 解码异或后的数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1720.%20%E8%A7%A3%E7%A0%81%E5%BC%82%E6%88%96%E5%90%8E%E7%9A%84%E6%95%B0%E7%BB%84)
 1729 | [1729. 求关注者的数量](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/1729.%20%E6%B1%82%E5%85%B3%E6%B3%A8%E8%80%85%E7%9A%84%E6%95%B0%E9%87%8F)
