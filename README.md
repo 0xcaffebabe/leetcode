@@ -72,6 +72,7 @@
 191 | [191. 位1的个数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0)
 197 | [197. 上升的温度](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/197.%20%E4%B8%8A%E5%8D%87%E7%9A%84%E6%B8%A9%E5%BA%A6)
 199 | [199.二叉树的右视图](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/199.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE/199.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.java)
+202 | [202.快乐数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/202.%E5%BF%AB%E4%B9%90%E6%95%B0/202.%E5%BF%AB%E4%B9%90%E6%95%B0.java)
 205 | [205. 同构字符串](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2)
 206 | [206. 反转链表](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
 217 | [217. 存在重复元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0)
