@@ -2,6 +2,10 @@
  * @lc app=leetcode.cn id=2 lang=java
  *
  * [2] 两数相加
+ * 
+ * 1568/1568 cases passed (2 ms)
+ * Your runtime beats 100 % of java submissions
+ * Your memory usage beats 6.78 % of java submissions (41.8 MB)
  */
 
 // @lc code=start
