@@ -285,6 +285,7 @@
 2006 | [2006. 差的绝对值为 K 的数对数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2006.%20%E5%B7%AE%E7%9A%84%E7%BB%9D%E5%AF%B9%E5%80%BC%E4%B8%BA%20K%20%E7%9A%84%E6%95%B0%E5%AF%B9%E6%95%B0%E7%9B%AE)
 2028 | [2028. 找出缺失的观测数据](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2028.%20%E6%89%BE%E5%87%BA%E7%BC%BA%E5%A4%B1%E7%9A%84%E8%A7%82%E6%B5%8B%E6%95%B0%E6%8D%AE)
 2043 | [2043. 简易银行系统](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2043.%20%E7%AE%80%E6%98%93%E9%93%B6%E8%A1%8C%E7%B3%BB%E7%BB%9F)
+2057 | [2057.值相等的最小索引](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2057.%E5%80%BC%E7%9B%B8%E7%AD%89%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95/2057.%E5%80%BC%E7%9B%B8%E7%AD%89%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95.java)
 2089 | [2089.找出数组排序后的目标下标](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2089.%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%A0%87/2089.%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F%E5%90%8E%E7%9A%84%E7%9B%AE%E6%A0%87%E4%B8%8B%E6%A0%87.java)
 2114 | [2114. 句子中的最多单词数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2114.%20%E5%8F%A5%E5%AD%90%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%9A%E5%8D%95%E8%AF%8D%E6%95%B0)
 2149 | [2149. 按符号重排数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/2001-2500/2149.%20%E6%8C%89%E7%AC%A6%E5%8F%B7%E9%87%8D%E6%8E%92%E6%95%B0%E7%BB%84)
