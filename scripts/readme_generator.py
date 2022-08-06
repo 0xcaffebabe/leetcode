@@ -14,7 +14,7 @@ def walk(path, kw, func) -> list:
                 result.append(dir)
 
     result.sort(key=func)
-    return result
+    return list(map(lambda x: x.replace("\\", "/"), result))
 
 normal_result = walk("./算法", "00", lambda x: x)
 db_result = walk("./数据库", "", lambda x: x)
