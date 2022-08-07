@@ -37,6 +37,7 @@
 92 | [92. 反转链表 II](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/92.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II)
 94 | [94. 二叉树的中序遍历](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/94.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86)
 98 | [98. 验证二叉搜索树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
+99 | [99.恢复二叉搜索树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/99.%E6%81%A2%E5%A4%8D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/99.%E6%81%A2%E5%A4%8D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java)
 100 | [100. 相同的树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/100.%20%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91)
 101 | [101.对称二叉树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.ts)
 102 | [102.二叉树的层序遍历](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.java)
