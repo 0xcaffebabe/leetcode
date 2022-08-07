@@ -146,6 +146,7 @@
 509 | [509. 斐波那契数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/509.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0)
 513 | [513.找树左下角的值](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC/513.%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.java)
 515 | [515.在每个树行中找最大值](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC/515.%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.java)
+530 | [530.二叉搜索树的最小绝对差](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/530.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE/530.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE.java)
 535 | [535. TinyURL 的加密与解密](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/535.%20TinyURL%20%E7%9A%84%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86)
 539 | [539. 最小时间差](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/539.%20%E6%9C%80%E5%B0%8F%E6%97%B6%E9%97%B4%E5%B7%AE)
 540 | [540. 有序数组中的单一元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/540.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E5%85%83%E7%B4%A0)
