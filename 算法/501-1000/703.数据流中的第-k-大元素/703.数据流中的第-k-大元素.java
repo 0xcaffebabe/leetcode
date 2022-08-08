@@ -4,6 +4,10 @@ import java.util.PriorityQueue;
  * @lc app=leetcode.cn id=703 lang=java
  *
  * [703] 数据流中的第 K 大元素
+ * 
+ * 10/10 cases passed (12 ms)
+ * Your runtime beats 93.01 % of java submissions
+ * Your memory usage beats 54.57 % of java submissions (45.4 MB)
  */
 
 // @lc code=start
