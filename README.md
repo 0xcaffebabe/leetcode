@@ -213,6 +213,7 @@
 929 | [929. 独特的电子邮件地址](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/929.%20%E7%8B%AC%E7%89%B9%E7%9A%84%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E5%9C%B0%E5%9D%80)
 933 | [933. 最近的请求次数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/933.%20%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0)
 938 | [938. 二叉搜索树的范围和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/938.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E8%8C%83%E5%9B%B4%E5%92%8C)
+944 | [944.删列造序](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/944.%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F/944.%E5%88%A0%E5%88%97%E9%80%A0%E5%BA%8F.py)
 961 | [961. 重复 N 次的元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/961.%20%E9%87%8D%E5%A4%8D%20N%20%E6%AC%A1%E7%9A%84%E5%85%83%E7%B4%A0)
 965 | [965.单值二叉树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/965.%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91/965.%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 977 | [977. 有序数组的平方](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)
