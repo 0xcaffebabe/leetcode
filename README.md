@@ -124,6 +124,7 @@
 367 | [367. 有效的完全平方数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/367.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0)
 371 | [371. 两整数之和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C)
 374 | [374. 猜数字大小](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F)
+378 | [378.有序矩阵中第-k-小的元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%AC-k-%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0/378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%AC-k-%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.java)
 380 | [380. O(1) 时间插入、删除和获取随机元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/380.%20O%281%29%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0)
 382 | [382. 链表随机节点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/382.%20%E9%93%BE%E8%A1%A8%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9)
 383 | [383. 赎金信](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/383.%20%E8%B5%8E%E9%87%91%E4%BF%A1)
