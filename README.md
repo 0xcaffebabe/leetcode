@@ -338,6 +338,7 @@
 1609 | [1609.奇偶树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1609.%E5%A5%87%E5%81%B6%E6%A0%91/1609.%E5%A5%87%E5%81%B6%E6%A0%91.java)
 1614 | [1614. 括号的最大嵌套深度](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1614.%20%E6%8B%AC%E5%8F%B7%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B5%8C%E5%A5%97%E6%B7%B1%E5%BA%A6)
 1656 | [1656. 设计有序流](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1656.%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81)
+1656 | [1656.设计有序流](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1656.%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81/1656.%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81.java)
 1662 | [1662. 检查两个字符串数组是否相等](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1662.%20%E6%A3%80%E6%9F%A5%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0%E7%BB%84%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89)
 1672 | [1672. 最富有客户的资产总量](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1672.%20%E6%9C%80%E5%AF%8C%E6%9C%89%E5%AE%A2%E6%88%B7%E7%9A%84%E8%B5%84%E4%BA%A7%E6%80%BB%E9%87%8F)
 1678 | [1678. 设计 Goal 解析器](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1678.%20%E8%AE%BE%E8%AE%A1%20Goal%20%E8%A7%A3%E6%9E%90%E5%99%A8)
