@@ -358,6 +358,7 @@
 1603 | [1603. 设计停车系统](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1603.%20%E8%AE%BE%E8%AE%A1%E5%81%9C%E8%BD%A6%E7%B3%BB%E7%BB%9F)
 1609 | [1609.奇偶树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1609.%E5%A5%87%E5%81%B6%E6%A0%91/1609.%E5%A5%87%E5%81%B6%E6%A0%91.java)
 1614 | [1614. 括号的最大嵌套深度](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1614.%20%E6%8B%AC%E5%8F%B7%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B5%8C%E5%A5%97%E6%B7%B1%E5%BA%A6)
+1619 | [1619.删除某些元素后的数组均值](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1619.%E5%88%A0%E9%99%A4%E6%9F%90%E4%BA%9B%E5%85%83%E7%B4%A0%E5%90%8E%E7%9A%84%E6%95%B0%E7%BB%84%E5%9D%87%E5%80%BC/1619.%E5%88%A0%E9%99%A4%E6%9F%90%E4%BA%9B%E5%85%83%E7%B4%A0%E5%90%8E%E7%9A%84%E6%95%B0%E7%BB%84%E5%9D%87%E5%80%BC.java)
 1656 | [1656. 设计有序流](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1656.%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81)
 1656 | [1656.设计有序流](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1656.%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81/1656.%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%BA%8F%E6%B5%81.java)
 1662 | [1662. 检查两个字符串数组是否相等](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1662.%20%E6%A3%80%E6%9F%A5%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0%E7%BB%84%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89)
