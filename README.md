@@ -197,6 +197,7 @@
 496 | [496. 下一个更大元素 I](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I)
 500 | [500.键盘行](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/500.%E9%94%AE%E7%9B%98%E8%A1%8C/500.%E9%94%AE%E7%9B%98%E8%A1%8C.java)
 501 | [501.二叉搜索树中的众数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/501.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0/501.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.java)
+503 | [503.下一个更大元素-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0-ii/503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0-ii.java)
 504 | [504.七进制数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/504.%E4%B8%83%E8%BF%9B%E5%88%B6%E6%95%B0/504.%E4%B8%83%E8%BF%9B%E5%88%B6%E6%95%B0.java)
 506 | [506.相对名次](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/506.%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1/506.%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1.java)
 507 | [507. 完美数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/507.%20%E5%AE%8C%E7%BE%8E%E6%95%B0)
