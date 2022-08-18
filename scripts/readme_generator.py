@@ -1,7 +1,7 @@
 import os
 from urllib.parse import quote
 
-def walk(path, kw, func) -> list:
+def walk(path, kw, func):
 
     g = os.walk(path)
     result = []
