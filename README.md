@@ -235,6 +235,7 @@
 575 | [575.分糖果](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/575.%E5%88%86%E7%B3%96%E6%9E%9C/575.%E5%88%86%E7%B3%96%E6%9E%9C.java)
 586 | [586. 订单最多的客户](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/586.%20%E8%AE%A2%E5%8D%95%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%A2%E6%88%B7)
 589 | [589. N 叉树的前序遍历](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/589.%20N%20%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86)
+594 | [594.最长和谐子序列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/594.%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97/594.%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.java)
 595 | [595. 大的国家](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/595.%20%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6)
 596 | [596. 超过5名学生的课](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/596.%20%E8%B6%85%E8%BF%875%E5%90%8D%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE)
 598 | [598.范围求和-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/598.%E8%8C%83%E5%9B%B4%E6%B1%82%E5%92%8C-ii/598.%E8%8C%83%E5%9B%B4%E6%B1%82%E5%92%8C-ii.java)
