@@ -164,6 +164,7 @@
 283 | [283. 移动零](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6)
 283 | [283.移动零](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)
 284 | [284. 顶端迭代器](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/284.%20%E9%A1%B6%E7%AB%AF%E8%BF%AD%E4%BB%A3%E5%99%A8)
+287 | [287.寻找重复数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.java)
 290 | [290. 单词规律](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/290.%20%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B)
 292 | [292.nim-游戏](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/292.nim-%E6%B8%B8%E6%88%8F/292.nim-%E6%B8%B8%E6%88%8F.c)
 295 | [295.数据流的中位数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/295.%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0/295.%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.java)
