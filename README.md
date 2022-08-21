@@ -261,6 +261,7 @@
 617 | [617. 合并二叉树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91)
 620 | [620. 有趣的电影](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/620.%20%E6%9C%89%E8%B6%A3%E7%9A%84%E7%94%B5%E5%BD%B1)
 622 | [622. 设计循环队列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/622.%20%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97)
+623 | [623.在二叉树中增加一行](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/623.%E5%9C%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%A2%9E%E5%8A%A0%E4%B8%80%E8%A1%8C/623.%E5%9C%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%A2%9E%E5%8A%A0%E4%B8%80%E8%A1%8C.java)
 627 | [627. 变更性别](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/627.%20%E5%8F%98%E6%9B%B4%E6%80%A7%E5%88%AB)
 628 | [628. 三个数的最大乘积](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/628.%20%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF)
 637 | [637.二叉树的层平均值](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC/637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.java)
