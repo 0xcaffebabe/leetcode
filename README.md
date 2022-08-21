@@ -398,6 +398,7 @@
 1476 | [1476. 子矩形查询](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1476.%20%E5%AD%90%E7%9F%A9%E5%BD%A2%E6%9F%A5%E8%AF%A2)
 1480 | [1480. 一维数组的动态和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1480.%20%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%A8%E6%80%81%E5%92%8C)
 1486 | [1486. 数组异或操作](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1486.%20%E6%95%B0%E7%BB%84%E5%BC%82%E6%88%96%E6%93%8D%E4%BD%9C)
+1496 | [1496.判断路径是否相交](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1496.%E5%88%A4%E6%96%AD%E8%B7%AF%E5%BE%84%E6%98%AF%E5%90%A6%E7%9B%B8%E4%BA%A4/1496.%E5%88%A4%E6%96%AD%E8%B7%AF%E5%BE%84%E6%98%AF%E5%90%A6%E7%9B%B8%E4%BA%A4.java)
 1507 | [1507. 转变日期格式](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1507.%20%E8%BD%AC%E5%8F%98%E6%97%A5%E6%9C%9F%E6%A0%BC%E5%BC%8F)
 1512 | [1512. 好数对的数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1512.%20%E5%A5%BD%E6%95%B0%E5%AF%B9%E7%9A%84%E6%95%B0%E7%9B%AE)
 1523 | [1523.在区间范围内统计奇数数目](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1501-2000/1523.%E5%9C%A8%E5%8C%BA%E9%97%B4%E8%8C%83%E5%9B%B4%E5%86%85%E7%BB%9F%E8%AE%A1%E5%A5%87%E6%95%B0%E6%95%B0%E7%9B%AE/1523.%E5%9C%A8%E5%8C%BA%E9%97%B4%E8%8C%83%E5%9B%B4%E5%86%85%E7%BB%9F%E8%AE%A1%E5%A5%87%E6%95%B0%E6%95%B0%E7%9B%AE.java)
