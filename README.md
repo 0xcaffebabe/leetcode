@@ -280,6 +280,7 @@
 684 | [684.冗余连接](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/684.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5/684.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.java)
 692 | [692.前k个高频单词](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/692.%E5%89%8Dk%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D/692.%E5%89%8Dk%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D.java)
 693 | [693. 交替位二进制数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/693.%20%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0)
+696 | [696.计数二进制子串](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/696.%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2/696.%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.java)
 697 | [697.数组的度](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/697.%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6/697.%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.java)
 700 | [700.二叉搜索树中的搜索](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/700.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2/700.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2.java)
 703 | [703.数据流中的第-k-大元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/703.%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E7%AC%AC-k-%E5%A4%A7%E5%85%83%E7%B4%A0/703.%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E7%AC%AC-k-%E5%A4%A7%E5%85%83%E7%B4%A0.java)
