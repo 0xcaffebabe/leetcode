@@ -330,6 +330,7 @@
 876 | [876. 链表的中间结点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/876.%20%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)
 876 | [876.链表的中间结点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.java)
 884 | [884. 两句话中的不常见单词](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/884.%20%E4%B8%A4%E5%8F%A5%E8%AF%9D%E4%B8%AD%E7%9A%84%E4%B8%8D%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D)
+894 | [894.所有可能的真二叉树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/894.%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E7%9C%9F%E4%BA%8C%E5%8F%89%E6%A0%91/894.%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E7%9C%9F%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 896 | [896. 单调数列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/896.%20%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97)
 897 | [897. 递增顺序查找树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/897.%20%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%9F%A5%E6%89%BE%E6%A0%91)
 905 | [905. 按奇偶排序数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/905.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)
