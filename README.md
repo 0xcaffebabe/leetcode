@@ -165,6 +165,7 @@
 263 | [263. 丑数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/263.%20%E4%B8%91%E6%95%B0)
 268 | [268. 丢失的数字](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/268.%20%E4%B8%A2%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97)
 278 | [278.第一个错误的版本](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.java)
+279 | [279.完全平方数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java)
 283 | [283. 移动零](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6)
 283 | [283.移动零](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)
 284 | [284. 顶端迭代器](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/284.%20%E9%A1%B6%E7%AB%AF%E8%BF%AD%E4%BB%A3%E5%99%A8)
