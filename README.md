@@ -156,6 +156,7 @@
 229 | [229.多数元素-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/229.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0-ii/229.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0-ii.java)
 230 | [230. 二叉搜索树中第K小的元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0)
 231 | [231. 2的幂](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/231.%202%E7%9A%84%E5%B9%82)
+231 | [231.2-的幂](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/231.2-%E7%9A%84%E5%B9%82/231.2-%E7%9A%84%E5%B9%82.java)
 232 | [232.用栈实现队列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97/232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.java)
 234 | [234. 回文链表](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/234.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8)
 235 | [235.二叉搜索树的最近公共祖先](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.java)
