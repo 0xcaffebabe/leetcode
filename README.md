@@ -433,6 +433,7 @@
 1464 | [1464. 数组中两元素的最大乘积](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1464.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF)
 1464 | [1464.数组中两元素的最大乘积](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1464.%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF/1464.%E6%95%B0%E7%BB%84%E4%B8%AD%E4%B8%A4%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.java)
 1470 | [1470. 重新排列数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1470.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84)
+1470 | [1470.重新排列数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1470.%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84/1470.%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84.java)
 1476 | [1476. 子矩形查询](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1476.%20%E5%AD%90%E7%9F%A9%E5%BD%A2%E6%9F%A5%E8%AF%A2)
 1480 | [1480. 一维数组的动态和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1480.%20%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%A8%E6%80%81%E5%92%8C)
 1486 | [1486. 数组异或操作](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1486.%20%E6%95%B0%E7%BB%84%E5%BC%82%E6%88%96%E6%93%8D%E4%BD%9C)
