@@ -370,6 +370,7 @@
 965 | [965.单值二叉树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/965.%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91/965.%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 977 | [977. 有序数组的平方](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9)
 977 | [977.有序数组的平方](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9/977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.java)
+986 | [986.区间列表的交集](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/986.%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86/986.%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86.java)
 993 | [993.二叉树的堂兄弟节点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/993.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%A0%82%E5%85%84%E5%BC%9F%E8%8A%82%E7%82%B9/993.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%A0%82%E5%85%84%E5%BC%9F%E8%8A%82%E7%82%B9.java)
 994 | [994.腐烂的橘子](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/994.%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90/994.%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.java)
 998 | [998.最大二叉树-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/998.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91-ii/998.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91-ii.java)
