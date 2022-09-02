@@ -313,6 +313,7 @@
 680 | [680.验证回文字符串-ⅱ](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2-%E2%85%B1/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2-%E2%85%B1.java)
 682 | [682.棒球比赛](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B/682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.java)
 684 | [684.冗余连接](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/684.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5/684.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.java)
+687 | [687.最长同值路径](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/687.%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84/687.%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.java)
 690 | [690.员工的重要性](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/690.%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/690.%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.java)
 692 | [692.前k个高频单词](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/692.%E5%89%8Dk%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D/692.%E5%89%8Dk%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D.java)
 693 | [693. 交替位二进制数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/693.%20%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0)
