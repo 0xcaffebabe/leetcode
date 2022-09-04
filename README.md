@@ -278,6 +278,7 @@
 566 | [566.重塑矩阵](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/566.%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5/566.%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.java)
 567 | [567.字符串的排列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/567.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/567.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.java)
 572 | [572. 另一棵树的子树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/572.%20%E5%8F%A6%E4%B8%80%E6%A3%B5%E6%A0%91%E7%9A%84%E5%AD%90%E6%A0%91)
+572 | [572.另一棵树的子树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/572.%E5%8F%A6%E4%B8%80%E6%A3%B5%E6%A0%91%E7%9A%84%E5%AD%90%E6%A0%91/572.%E5%8F%A6%E4%B8%80%E6%A3%B5%E6%A0%91%E7%9A%84%E5%AD%90%E6%A0%91.java)
 575 | [575.分糖果](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/575.%E5%88%86%E7%B3%96%E6%9E%9C/575.%E5%88%86%E7%B3%96%E6%9E%9C.java)
 583 | [583.两个字符串的删除操作](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/583.%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C/583.%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.java)
 586 | [586. 订单最多的客户](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/586.%20%E8%AE%A2%E5%8D%95%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AE%A2%E6%88%B7)
