@@ -225,6 +225,7 @@
 383 | [383. 赎金信](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/383.%20%E8%B5%8E%E9%87%91%E4%BF%A1)
 384 | [384. 打乱数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/384.%20%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84)
 387 | [387. 字符串中的第一个唯一字符](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/387.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)
+387 | [387.字符串中的第一个唯一字符](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/387.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6/387.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.java)
 389 | [389. 找不同](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C)
 392 | [392.判断子序列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.c)
 398 | [398.随机数索引](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/398.%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%B4%A2%E5%BC%95/398.%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%B4%A2%E5%BC%95.java)
