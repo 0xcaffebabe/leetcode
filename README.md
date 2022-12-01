@@ -398,6 +398,7 @@
 896 | [896. 单调数列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/896.%20%E5%8D%95%E8%B0%83%E6%95%B0%E5%88%97)
 897 | [897. 递增顺序查找树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/897.%20%E9%80%92%E5%A2%9E%E9%A1%BA%E5%BA%8F%E6%9F%A5%E6%89%BE%E6%A0%91)
 905 | [905. 按奇偶排序数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/905.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84)
+908 | [908.最小差值-i](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/908.%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC-i/908.%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC-i.py)
 912 | [912.排序数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/912.%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/912.%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java)
 917 | [917. 仅仅反转字母](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/917.%20%E4%BB%85%E4%BB%85%E5%8F%8D%E8%BD%AC%E5%AD%97%E6%AF%8D)
 922 | [922.按奇偶排序数组-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/922.%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84-ii/922.%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84-ii.java)
