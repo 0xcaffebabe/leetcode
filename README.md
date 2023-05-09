@@ -39,6 +39,7 @@
 38 | [38.外观数列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/38.%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97/38.%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.java)
 39 | [39.组合总和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.java)
 40 | [40.组合总和-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/40.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C-ii/40.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C-ii.java)
+41 | [41.缺失的第一个正数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/41.%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0/41.%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.java)
 45 | [45.跳跃游戏-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/45.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-ii/45.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-ii.java)
 46 | [46. 全排列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/46.%20%E5%85%A8%E6%8E%92%E5%88%97)
 46 | [46.全排列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/46.%E5%85%A8%E6%8E%92%E5%88%97/46.%E5%85%A8%E6%8E%92%E5%88%97.java)
