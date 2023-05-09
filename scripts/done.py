@@ -27,26 +27,29 @@ for i in file_list:
   seq = i.split(".")[0]
   if ".sql" in i:
     base_dir = "./数据库/"
-  elif "剑指Offer" in seq:
+  elif "Offer" in seq:
     base_dir = "./算法/剑指Offer"
   elif "面试题" in seq:
     base_dir = "./算法/面试题"
   elif "LCP" in seq:
     base_dir = "./算法/LCP"
   else:
-    seq = int(seq)
-    dir_range = ""
-    if seq >= 1 and seq <= 500:
-      dir_range = "001-500"
-    elif seq >= 501 and seq <= 1000:
-      dir_range = "501-1000"
-    elif seq >= 1001 and seq <= 1500:
-      dir_range = "1001-1500"
-    elif seq >= 1501 and seq <= 2000:
-      dir_range = "1501-2000"
-    elif seq >= 2001 and seq <= 2500:
-      dir_range = "2001-2500"
-    base_dir = "./算法/" + dir_range
+    if seq.isnumeric():
+      seq = int(seq)
+      dir_range = ""
+      if seq >= 1 and seq <= 500:
+        dir_range = "001-500"
+      elif seq >= 501 and seq <= 1000:
+        dir_range = "501-1000"
+      elif seq >= 1001 and seq <= 1500:
+        dir_range = "1001-1500"
+      elif seq >= 1501 and seq <= 2000:
+        dir_range = "1501-2000"
+      elif seq >= 2001 and seq <= 2500:
+        dir_range = "2001-2500"
+      base_dir = "./算法/" + dir_range
+    else:
+      base_dir = base_dir + '/' + seq
   
   solutin_dir = i[0: i.rindex(".")]
   move_dir = base_dir + "/" + solutin_dir
