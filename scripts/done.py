@@ -7,13 +7,11 @@ import shutil
 import platform
 
 def post_cmd():
-  if platform.system() == 'Darwin':
     os.system("python3 scripts/readme_generator.py")
-  else:
     os.system("python scripts/readme_generator.py")
-  os.system('git add . ')
-  os.system('git commit -a -m "➕{}"'.format(kw))
-  os.system("git push")
+    os.system('git add . ')
+    os.system('git commit -a -m "➕{}"'.format(kw))
+    os.system("git push")
 
 file_list = os.listdir("./")
 kw = sys.argv[1]
@@ -21,6 +19,7 @@ file_list = list(filter(lambda x: kw in x, file_list))
 
 if len(file_list) == 0:
   print("no file!!")
+  post_cmd()
   exit(-1)
 
 base_dir = ""
