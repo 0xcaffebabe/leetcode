@@ -47,6 +47,8 @@ for i in file_list:
         dir_range = "1501-2000"
       elif seq >= 2001 and seq <= 2500:
         dir_range = "2001-2500"
+      elif seq >= 2501 and seq <= 3000:
+        dir_range = "2501-3000"
       base_dir = "./算法/" + dir_range
     else:
       base_dir = base_dir + '/' + seq

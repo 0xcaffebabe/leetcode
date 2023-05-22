@@ -11,7 +11,10 @@ def walk(path, kw, func):
             if not '.' in dir_name:
                 continue
             dir = os.path.join(path, dir_name)
-            if kw in dir:
+            # 普通题特殊处理
+            if kw == '00' and dir.replace("./算法/", "").split("-")[0].isnumeric():
+               result.append(dir)
+            elif kw != '00' and kw in dir:
                 result.append(dir)
 
     result.sort(key=func)
