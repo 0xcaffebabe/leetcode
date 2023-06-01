@@ -163,6 +163,7 @@
 201 | [201.数字范围按位与](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/201.%E6%95%B0%E5%AD%97%E8%8C%83%E5%9B%B4%E6%8C%89%E4%BD%8D%E4%B8%8E/201.%E6%95%B0%E5%AD%97%E8%8C%83%E5%9B%B4%E6%8C%89%E4%BD%8D%E4%B8%8E.java)
 202 | [202.快乐数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/202.%E5%BF%AB%E4%B9%90%E6%95%B0/202.%E5%BF%AB%E4%B9%90%E6%95%B0.java)
 203 | [203.移除链表元素](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0/203.%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.java)
+204 | [204.计数质数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/204.%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0/204.%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.java)
 205 | [205. 同构字符串](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2)
 206 | [206. 反转链表](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
 206 | [206.反转链表](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.java)
