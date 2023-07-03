@@ -279,6 +279,7 @@
 482 | [482. 密钥格式化](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/482.%20%E5%AF%86%E9%92%A5%E6%A0%BC%E5%BC%8F%E5%8C%96)
 485 | [485. 最大连续1的个数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/485.%20%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
 491 | [491.递增子序列](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97/491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java)
+492 | [492.构造矩形](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/492.%E6%9E%84%E9%80%A0%E7%9F%A9%E5%BD%A2/492.%E6%9E%84%E9%80%A0%E7%9F%A9%E5%BD%A2.java)
 494 | [494.目标和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/494.%E7%9B%AE%E6%A0%87%E5%92%8C/494.%E7%9B%AE%E6%A0%87%E5%92%8C.java)
 495 | [495. 提莫攻击](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/495.%20%E6%8F%90%E8%8E%AB%E6%94%BB%E5%87%BB)
 496 | [496. 下一个更大元素 I](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I)
