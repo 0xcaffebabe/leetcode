@@ -62,6 +62,7 @@
 63 | [63.不同路径-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/63.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84-ii/63.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84-ii.java)
 64 | [64.最小路径和](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.java)
 66 | [66. 加一](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/66.%20%E5%8A%A0%E4%B8%80)
+69 | [69.x-的平方根](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/69.x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9/69.x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.java)
 70 | [70.爬楼梯](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/70.%E7%88%AC%E6%A5%BC%E6%A2%AF/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.java)
 71 | [71. 简化路径](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/71.%20%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84)
 72 | [72.编辑距离](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/72.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB/72.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.java)
