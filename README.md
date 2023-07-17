@@ -420,6 +420,7 @@
 865 | [865.具有所有最深节点的最小子树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/865.%E5%85%B7%E6%9C%89%E6%89%80%E6%9C%89%E6%9C%80%E6%B7%B1%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E6%A0%91/865.%E5%85%B7%E6%9C%89%E6%89%80%E6%9C%89%E6%9C%80%E6%B7%B1%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E6%A0%91.java)
 867 | [867. 转置矩阵](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/867.%20%E8%BD%AC%E7%BD%AE%E7%9F%A9%E9%98%B5)
 868 | [868. 二进制间距](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/868.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%97%B4%E8%B7%9D)
+869 | [869.重新排序得到-2-的幂](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/869.%E9%87%8D%E6%96%B0%E6%8E%92%E5%BA%8F%E5%BE%97%E5%88%B0-2-%E7%9A%84%E5%B9%82/869.%E9%87%8D%E6%96%B0%E6%8E%92%E5%BA%8F%E5%BE%97%E5%88%B0-2-%E7%9A%84%E5%B9%82.java)
 872 | [872. 叶子相似的树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/872.%20%E5%8F%B6%E5%AD%90%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%A0%91)
 876 | [876. 链表的中间结点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/876.%20%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9)
 876 | [876.链表的中间结点](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/501-1000/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9.java)
