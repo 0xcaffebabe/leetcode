@@ -4,9 +4,9 @@
  *
  * [875] 爱吃香蕉的珂珂
  * 
- * 125/125 cases passed (27 ms)
- * Your runtime beats 15.17 % of java submissions
- * Your memory usage beats 5.05 % of java submissions (43.8 MB)
+ * 125/125 cases passed (19 ms)
+ * Your runtime beats 23.92 % of java submissions
+ * Your memory usage beats 15.78 % of java submissions (43.2 MB)
  */
 
 // @lc code=start
@@ -21,7 +21,6 @@ class Solution {
             long mid = (left + right) / 2;
             // 以这个速度吃香蕉 需要多少时间
             var h0 = getTimes(piles, mid);
-            System.out.println(h0);
             if (h0 <= h) {
                 // 快了或刚好
                 ans = mid;
