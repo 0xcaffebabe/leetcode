@@ -247,6 +247,7 @@
 383 | [383. 赎金信](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/383.%20%E8%B5%8E%E9%87%91%E4%BF%A1)
 383 | [383.赎金信](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/383.%E8%B5%8E%E9%87%91%E4%BF%A1/383.%E8%B5%8E%E9%87%91%E4%BF%A1.java)
 384 | [384. 打乱数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/384.%20%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84)
+386 | [386.字典序排数](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/386.%E5%AD%97%E5%85%B8%E5%BA%8F%E6%8E%92%E6%95%B0/386.%E5%AD%97%E5%85%B8%E5%BA%8F%E6%8E%92%E6%95%B0.java)
 387 | [387. 字符串中的第一个唯一字符](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/387.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6)
 387 | [387.字符串中的第一个唯一字符](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/387.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6/387.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.java)
 389 | [389. 找不同](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C)
