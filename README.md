@@ -477,6 +477,7 @@
 1050 | [1050.合作过至少三次的演员和导演](https://github.com/0xcaffebabe/leetcode/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93/1050.%E5%90%88%E4%BD%9C%E8%BF%87%E8%87%B3%E5%B0%91%E4%B8%89%E6%AC%A1%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%AF%BC%E6%BC%94/1050.%E5%90%88%E4%BD%9C%E8%BF%87%E8%87%B3%E5%B0%91%E4%B8%89%E6%AC%A1%E7%9A%84%E6%BC%94%E5%91%98%E5%92%8C%E5%AF%BC%E6%BC%94.sql)
 1078 | [1078. Bigram 分词](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1078.%20Bigram%20%E5%88%86%E8%AF%8D)
 1079 | [1079.活字印刷](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1079.%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7/1079.%E6%B4%BB%E5%AD%97%E5%8D%B0%E5%88%B7.java)
+1089 | [1089.复写零](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1089.%E5%A4%8D%E5%86%99%E9%9B%B6/1089.%E5%A4%8D%E5%86%99%E9%9B%B6.java)
 1091 | [1091.二进制矩阵中的最短路径](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1091.%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84/1091.%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.java)
 1104 | [1104.二叉树寻路](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1104.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF/1104.%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF.java)
 1108 | [1108. IP 地址无效化](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/1001-1500/1108.%20IP%20%E5%9C%B0%E5%9D%80%E6%97%A0%E6%95%88%E5%8C%96)
