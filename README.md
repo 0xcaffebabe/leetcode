@@ -883,3 +883,4 @@
 LCP 06 | [LCP 06. 拿硬币](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/LCP/LCP%2006.%20%E6%8B%BF%E7%A1%AC%E5%B8%81)
 LCP 17 | [LCP 17. 速算机器人](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/LCP/LCP%2017.%20%E9%80%9F%E7%AE%97%E6%9C%BA%E5%99%A8%E4%BA%BA)
 LCP 50 | [LCP 50.宝石补给](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/LCP/LCP%2050.%E5%AE%9D%E7%9F%B3%E8%A1%A5%E7%BB%99/LCP%2050.%E5%AE%9D%E7%9F%B3%E8%A1%A5%E7%BB%99.java)
+LCP 67 | [LCP 67.装饰树](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/LCP/LCP%2067.%E8%A3%85%E9%A5%B0%E6%A0%91/LCP%2067.%E8%A3%85%E9%A5%B0%E6%A0%91.java)
