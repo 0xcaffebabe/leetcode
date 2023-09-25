@@ -81,6 +81,7 @@
 86 | [86.分隔链表](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/86.%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8/86.%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.java)
 88 | [88. 合并两个有序数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)
 88 | [88.合并两个有序数组](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/88.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/88.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.java)
+89 | [89.格雷编码](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/89.%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81/89.%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.java)
 90 | [90.子集-ii](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/90.%E5%AD%90%E9%9B%86-ii/90.%E5%AD%90%E9%9B%86-ii.java)
 91 | [91.解码方法](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95/91.%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.java)
 92 | [92. 反转链表 II](https://github.com/0xcaffebabe/leetcode/tree/main/%E7%AE%97%E6%B3%95/001-500/92.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II)
