@@ -33,6 +33,8 @@ for i in file_list:
     base_dir = "./算法/面试题"
   elif "LCP" in seq:
     base_dir = "./算法/LCP"
+  elif "LCR" in seq:
+    base_dir = "./算法/LCR"
   else:
     if seq.isnumeric():
       seq = int(seq)
