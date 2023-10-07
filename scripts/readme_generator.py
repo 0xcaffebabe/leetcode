@@ -28,8 +28,9 @@ normal_result.sort(key = lambda x: int(x.split("/")[-1].split(".")[0]))
 offer_result = walk("./算法/剑指Offer", "剑指", lambda x: x)
 interview_result = walk("./算法/面试题", "面试题", lambda x: x)
 lcp_result = walk("./算法/LCP", "LCP", lambda x: x)
+lcr_result = walk("./算法/LCR", "LCR", lambda x: x)
 
-all_result = normal_result + offer_result + interview_result + lcp_result
+all_result = normal_result + offer_result + interview_result + lcp_result + lcr_result
 
 md_content = """
 序号 | 题目
