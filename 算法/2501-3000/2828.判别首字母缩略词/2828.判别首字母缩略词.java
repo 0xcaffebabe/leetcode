@@ -6,19 +6,24 @@
  * 
  * 1519/1519 cases passed (1 ms)
  * Your runtime beats 100 % of java submissions
- * Your memory usage beats 81.91 % of java submissions (42.4 MB)
+ * Your memory usage beats 19.57 % of java submissions (43.5 MB)
  */
 
+
+// @lcpr-template-start
+
+// @lcpr-template-end
 // @lc code=start
 
 import java.util.List;
 
 class Solution {
     public boolean isAcronym(List<String> words, String s) {
-        StringBuilder sb = new StringBuilder();
-        for(var w: words) 
-            sb.append(w.charAt(0));
-        return sb.toString().equals(s);
+        if (words.size() != s.length()) return false;
+        for(int i = 0; i < words.size(); i++) {
+            if (s.charAt(i) != words.get(i).charAt(0)) return false;
+        }
+        return true;
     }
 }
 // @lc code=end
@@ -36,6 +41,8 @@ class Solution {
 
 // @lcpr case=start
 // ["never","gonna","give","up","on","you"]\n"ngguoy"\n
+// ["a"]\n"a"\n
+// ["bpple"]\n"a"\n
 // @lcpr case=end
 
  */
