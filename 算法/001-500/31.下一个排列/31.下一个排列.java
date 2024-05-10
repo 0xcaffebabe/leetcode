@@ -4,9 +4,9 @@
  *
  * [31] 下一个排列
  * 
- * 265/265 cases passed (9 ms)
- * Your runtime beats 1.37 % of java submissions
- * Your memory usage beats 72.45 % of java submissions (41.6 MB)
+ * 266/266 cases passed (0 ms)
+ * Your runtime beats 100 % of java submissions
+ * Your memory usage beats 82.04 % of java submissions (42.1 MB)
  */
 
 // @lc code=start
@@ -40,7 +40,7 @@ class Solution {
         int t = nums[p];
         nums[p] = nums[q];
         nums[q] = t;
-        System.out.println(p + "|" + q);
+        // System.out.println(p + "|" + q);
         sort(nums, p + 1, n);
     }
 
