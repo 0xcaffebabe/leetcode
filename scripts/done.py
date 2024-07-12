@@ -10,7 +10,7 @@ def post_cmd():
     os.system("python3 scripts/readme_generator.py")
     os.system("python scripts/readme_generator.py")
     os.system('git add . ')
-    os.system('git commit -a -m "➕{}"'.format(kw))
+    os.system('git commit -a -m "➕{}"'.format(file_list[0]))
     os.system("git push")
 
 file_list = os.listdir("./")
